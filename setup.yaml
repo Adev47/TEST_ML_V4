@@ -13,6 +13,3 @@ design:
 
 rounded_corners:
   main_widgets: 12
-
-top_bar:
-  hex_color: "#FF0000"
