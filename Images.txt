@@ -1,7 +1,7 @@
 Logo,1.00.04,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.pngHAHAHAHAHAHAHHHAHAHA
 News_Page,1.00.04,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.pngHAHAHAHAHAHAHHHAHAHA
 Lateral_Menu,1.00.02,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.pngHAHAHAHAHAHAHHHAHAHA
-Background,1.00.03,<:R6_icon_av_v1:1280627121710043299>
+Background,1.00.04,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/FOND_V3.png
 BO6,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175697809428/default_BO6.png?ex=66ed518a&is=66ec000a&hm=45249a10ea3e6c84512609f716edb8ae60e2146771ad97defe2c10ab54bfc9aa&
 MW3,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
 MW2,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
@@ -16,4 +16,4 @@ FORTNITE,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/12862
 RUST,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
 APEX,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
 HLL,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
-DAYLIGHT,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
+DAYLIGHT,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
