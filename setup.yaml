@@ -6,9 +6,8 @@ links:
 design:
   highlight_color: "#FF0000"
   main_widgets_color: "#050505"
-  sft_line_bg: "#070707"
-  sft_line_bg_hover: "#101010"
-  sft_line_bg_pressed: "#030303"
+  loader_box_color: "#070707"
+  main_text_color: "#FFFFFF"
 
 rounded_corners:
   main_widgets: 12
