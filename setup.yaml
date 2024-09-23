@@ -1,13 +1,11 @@
-links:
-  discord_link: "https://discord.gg/iriscorp"
-  website_link: "https://iris-corp.mysellix.io/fr/"
-  guide_link: "https://fame-services.gitbook.io/guide"
-
 design:
-  highlight_color: "#FF0000"
-  main_widgets_color: "#050505"
-  loader_box_color: "#070707"
-  main_text_color: "#FFFFFF"
-
+  highlight_color: '#FF0000'
+  loader_box_color: '#070707'
+  main_text_color: '#FFFFFF'
+  main_widgets_color: '#050505'
+links:
+  discord_link: https://discord.gg/iriscorp
+  guide_link: https://fame-services.gitbook.io/guide
+  website_link: https://iris-corp.mysellix.io/fr/
 rounded_corners:
-  main_widgets: 12
+  main_widgets: '15'
