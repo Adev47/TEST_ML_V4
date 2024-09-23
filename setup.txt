@@ -1,6 +1,6 @@
 [design]
 highlight_color = #FF0000
-loader_box_color = #ff0000
+loader_box_color = #070707
 main_text_color = #FFFFFF
 main_widgets_color = #050505
 
