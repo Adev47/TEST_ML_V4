@@ -1,4 +1,4 @@
-Logo,1.00.04,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/IRIS6EYEEEEE.gif
+Logo,1.00.05,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/iris_logo_v3.png
 News_Page,1.00.04,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/iris_news_page_v1.png
 Lateral_Menu,1.00.02,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/TEST_LATERAL.png
 Background,1.00.04,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/FOND_V3.png
@@ -16,4 +16,4 @@ FORTNITE,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/12862
 RUST,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
 APEX,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
 HLL,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
-DAYLIGHT,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
+DAYLIGHT,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
