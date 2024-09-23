@@ -13,7 +13,7 @@ R6,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/12862761759
 CS2,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
 CS2,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
 FORTNITE,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
-RUST,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
+RUST,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/RUST_wallp_v4.png
 APEX,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
 HLL,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
 DAYLIGHT,1.00.1,https://cdn.discordapp.com/attachments/1219314221377130526/1286276175945142283/default_MW3v3OLD.png?ex=66ed518a&is=66ec000a&hm=e2934d125f71d1ffecad4118edb26d6bafa1eae6ff2ed1974f5a59bfd001b119&
