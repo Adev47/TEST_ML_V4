@@ -1,1 +1,13 @@
-aGlnaGxpZ2h0X2NvbG9yID0gRkYwMDAwCmxvYWRlcl9ib3hfY29sb3IgPSAjMDcwNzA3DQptYWluX3RleHRfY29sb3IgPSAjRkZGRkZGDQptYWluX3dpZGdldHNfY29sb3IgPSAjMDUwNTA1DQoNCltsaW5rc10NCmRpc2NvcmRfbGluayA9IGh0dHBzOi8vZGlzY29yZC5nZy9ib29zdGNhbXANCmd1aWRlX2xpbmsgPSBodHRwczovL2ZhbWUtc2VydmljZXMuZ2l0Ym9vay5pby9ndWlkZQ0Kd2Vic2l0ZV9saW5rID0gaHR0cHM6Ly9pcmlzLWNvcnAubXlzZWxsaXguaW8vZnIvDQoNCltyb3VuZGVkX2Nvcm5lcnNdDQptYWluX3dpZGdldHMgPSAxMg0K
+[design]
+highlight_color = #FFFF00
+loader_box_color = #070707
+main_text_color = #FFFFFF
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/boostcamp
+guide_link = https://fame-services.gitbook.io/guide
+website_link = https://iris-corp.mysellix.io/fr/
+
+[rounded_corners]
+main_widgets = 12
