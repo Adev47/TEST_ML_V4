@@ -1,4 +1,4 @@
-Logo,1.00.05,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/iris_logo_v3.png
+Logo,1.00.05,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/iris_logo_v5.png
 News_Page,1.00.04,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/iris_news_page_v1.png
 Lateral_Menu,1.00.02,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/TEST_LATERAL.png
 Background,1.00.04,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/FOND_V3.png
