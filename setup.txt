@@ -5,7 +5,7 @@ main_text_color = #FFFFFF
 main_widgets_color = #050505
 
 [links]
-discord_link = https://discord.gg/boostcamp
+discord_link = https://discord.gg/anewvision
 guide_link = https://fame-services.gitbook.io/guide
 website_link = https://iris-corp.mysellix.io/fr/
 
