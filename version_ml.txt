@@ -1,1 +1,1 @@
-1.00.2,hhtps://
+1.00.2,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_2.exe
