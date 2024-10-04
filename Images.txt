@@ -1,4 +1,4 @@
-Logo,1.00.08,https://media.discordapp.net/attachments/1190657271231942716/1281277490119184405/AV_LOGO_V3.png?ex=6700b4e6&is=66ff6366&hm=1716467ad8ed0b79ea446b82482a08c8a02f86311a55006e40ad6aae79ba446e&=&format=webp&quality=lossless&width=853&height=853
+Logo,1.00.09,https://raw.githubusercontent.com/avod245/1276036691723030581_cloud/main/LOGOS/Shop_Bot_V2.png
 News_Page,1.00.04,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/iris_news_page_v1.png
 Lateral_Menu,1.00.02,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/TEST_LATERAL.png
 Background,1.00.04,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/FOND_V3.png
