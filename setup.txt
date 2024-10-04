@@ -10,4 +10,4 @@ guide_link = https://fame-services.gitbook.io/guide
 website_link = https://iris-corp.mysellix.io/fr/
 
 [rounded_corners]
-main_widgets = 13
+main_widgets = 12
