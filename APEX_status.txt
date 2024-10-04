@@ -1,2 +1,2 @@
 UA WOOFER V5,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.3.exe
-AMMA LOADER,updating,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.3.exe
+Apex External Chair v2,updating,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/Loaders/Win_ACT_2.3.exe
