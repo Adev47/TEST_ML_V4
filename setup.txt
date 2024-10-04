@@ -2,7 +2,7 @@
 highlight_color = #F3A618
 loader_box_color = #070707
 main_text_color = #FFFFFF
-main_widgets_color = #050505
+main_widgets_color = #F5F5F5
 
 [links]
 discord_link = discord.gg/anewvision
