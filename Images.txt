@@ -1,7 +1,7 @@
 Logo,1.00.09,https://raw.githubusercontent.com/avod245/1276036691723030581_cloud/main/LOGOS/Shop_Bot_V2.png
 News_Page,1.00.04,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/iris_news_page_v1.png
 Lateral_Menu,1.00.03,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/av_template_default_lateral.png
-Background,1.00.04,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/FOND_V3.png
+Background,1.00.05,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/av_template_default_background.png
 BO6,1.00.2,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/bo6_wallp_v4.png
 MW3,1.00.2,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/mw3_wallp_v4.png
 MW2,1.00.1,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML/mw2_wallp_v4.png
