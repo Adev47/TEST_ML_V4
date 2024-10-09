@@ -1,1 +1,0 @@
-UA V3333,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe
